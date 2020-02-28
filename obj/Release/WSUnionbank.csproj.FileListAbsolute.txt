@@ -1,0 +1,10 @@
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.dll.config
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.dll
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.pdb
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\Newtonsoft.Json.dll
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\RestSharp.dll
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\Newtonsoft.Json.xml
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\bin\RestSharp.xml
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Release\WSUnionbank.dll
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Release\WSUnionbank.pdb
+C:\Users\dquerubin\Documents\Visual Studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Release\WSUnionbank.csprojResolveAssemblyReference.cache

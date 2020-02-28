@@ -1,0 +1,10 @@
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.dll.config
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.dll
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\WSUnionbank.pdb
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\Newtonsoft.Json.dll
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\RestSharp.dll
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\Newtonsoft.Json.xml
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\bin\RestSharp.xml
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Debug\WSUnionbank.csprojResolveAssemblyReference.cache
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Debug\WSUnionbank.dll
+c:\users\dquerubin\documents\visual studio 2013\Projects\WSUnionbank\WSUnionbank\obj\Debug\WSUnionbank.pdb
