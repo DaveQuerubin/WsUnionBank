@@ -316,14 +316,6 @@ namespace WSUnionbank
                     transactResponse.description = "Failed to Credit Beneficiary Account";
                     return transactResponse;
                 }
-                //int num;
-                //if (!Regex.IsMatch(Identifier, @"^\d+$"))
-                //{
-                //    Tools.LogData(applicationName, "Unionbank", "Unionbank", sessionId + " Transact Response: 10|Invalid Account Number", false);
-                //    transactResponse.statusid = "10";
-                //    transactResponse.description = "Invalid Mobile Number";
-                //    return transactResponse;
-                //}
                 //initiate request
                 ECashDTO DBRequest = new ECashDTO();
                 DBRequest.AccountId = accountId;
